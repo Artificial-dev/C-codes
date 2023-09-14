@@ -1,7 +1,5 @@
 # C-codes
 
-# c_codes
-
 Welcome to the "c_codes" repository! This collection houses a series of C and C++ programming examples that were covered during my first year of academics. These programs serve as a foundational learning resource for anyone looking to grasp the fundamentals of these powerful programming languages.
 
 
